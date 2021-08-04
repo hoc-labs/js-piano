@@ -1,1 +1,1 @@
-# js-piano
+# JavaScript Piano
